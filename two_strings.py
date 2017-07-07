@@ -21,7 +21,6 @@ def check(s1,s2):
 
 q = int(raw_input().strip())
 for a0 in xrange(q):
-	test = "NO"
 	s1 = raw_input().strip()
 	s2 = raw_input().strip()
 	print check(s1,s2)
